@@ -1,9 +1,10 @@
 .bg-img1,
 .bg-img2,
 .bg-img3,
-.bg-img4 {
+{
   background-color: azure;
   background-size: cover;
+  width:100%;
 }
 
 .bg-img1 {
